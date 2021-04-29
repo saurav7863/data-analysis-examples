@@ -1,0 +1,6 @@
+[submodule "data-analysis-boilerplate-medical-data-visualizer"]
+	path = data-analysis-boilerplate-medical-data-visualizer
+	url = https://github.com/saurav7863/data-analysis-boilerplate-medical-data-visualizer.git
+[submodule "data-analysis-boilerplate-sea-level-predictor"]
+	path = data-analysis-boilerplate-sea-level-predictor
+	url = https://github.com/saurav7863/data-analysis-boilerplate-sea-level-predictor.git
